@@ -1,1 +1,1 @@
-[![Codewars](https://www.codewars.com/users/rodinopps/badges/small)](https://www.codewars.com/users/rodinopps)
+[![Codewars](https://www.codewars.com/users/rodin-opuz/badges/small)](https://www.codewars.com/users/rodin-opuz)

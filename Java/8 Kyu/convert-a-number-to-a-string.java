@@ -3,3 +3,5 @@ class Kata {
     return num + "";
   }
 }
+
+//String.valueOf()
